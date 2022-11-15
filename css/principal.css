@@ -1,0 +1,10 @@
+.principal {
+  padding: 2rem 7rem;
+  background: rgb(237, 229, 188);
+}
+
+@media screen and (max-width: 768px) {
+  .principal {
+    padding: 2rem 0.5rem;
+  }
+}

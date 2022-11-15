@@ -1,0 +1,12 @@
+.navegacao__link {
+  font-size: 1rem;
+  color: rgb(237, 229, 188);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.navegacao__link:hover {
+  color: goldenrod;
+  text-decoration: underline;
+  font-size: 1.1rem;
+}

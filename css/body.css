@@ -1,0 +1,12 @@
+body {
+  font-family: 'Domine', serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+  }
+}

@@ -1,0 +1,15 @@
+.cabecalho-principal {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+  padding: 2rem 7rem;
+  background: rgb(12, 12, 12);
+}
+
+@media screen and (max-width: 768px) {
+  .cabecalho-principal {
+    flex-direction: column-reverse;
+    padding: 2rem 1rem;
+  }
+}

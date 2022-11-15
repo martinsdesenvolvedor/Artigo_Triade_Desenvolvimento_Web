@@ -1,0 +1,13 @@
+.historia__img {
+  width: 70%;
+  height: 60vh;
+  box-shadow: 10px 10px 10px black;
+  margin-bottom: 3rem;
+}
+
+@media screen and (max-width: 768px) {
+  .historia__img {
+    width: 100%;
+    height: 40vh;
+  }
+}

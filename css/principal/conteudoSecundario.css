@@ -1,0 +1,12 @@
+.conteudo-secundario {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 5rem;
+}
+
+@media screen and (max-width: 768px) {
+  .conteudo-secundario {
+    flex-direction: column;
+    margin-bottom: 3rem;
+  }
+}

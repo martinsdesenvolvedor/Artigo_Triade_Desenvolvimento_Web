@@ -1,0 +1,15 @@
+.titulo-secundario {
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .titulo-secundario {
+    text-decoration: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}

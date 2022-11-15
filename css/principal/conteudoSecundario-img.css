@@ -1,0 +1,11 @@
+.conteudo-secundario__img {
+  width: 20%;
+}
+
+@media screen and (max-width: 768px) {
+  .conteudo-secundario__img {
+    width: 100%;
+    height: 45vh;
+    margin-bottom: 0.6rem;
+  }
+}

@@ -1,0 +1,12 @@
+.paragrafo-historia {
+  font-size: 0.8rem;
+  color: rgb(12, 12, 12);
+  padding-left: 7rem;
+}
+
+@media screen and (max-width: 768px) {
+  .paragrafo-historia {
+    font-size: 1rem;
+    text-indent: 0;
+  }
+}

@@ -1,0 +1,10 @@
+.imagem-triade {
+  width: 100%;
+  height: 90vh;
+}
+
+@media screen and (max-width: 768px) {
+  .imagem-triade {
+    height: 50vh;
+  }
+}

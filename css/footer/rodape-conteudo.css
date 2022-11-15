@@ -1,0 +1,9 @@
+.rodape__conteudo {
+  color: rgb(237, 229, 188);
+}
+
+@media screen and (max-width: 768px) {
+  .rodape__conteudo {
+    margin-bottom: 1rem;
+  }
+}

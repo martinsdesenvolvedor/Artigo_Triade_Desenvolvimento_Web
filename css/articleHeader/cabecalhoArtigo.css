@@ -1,0 +1,4 @@
+.cabecalho-artigo {
+  display: flex;
+  flex-direction: column;
+}
